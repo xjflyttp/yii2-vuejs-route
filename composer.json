@@ -1,0 +1,22 @@
+{
+    "name": "xj/yii2-vuejs-router",
+    "description": "yii2-vuejs-router",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "xjflyttp",
+            "email": "xjflyttp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "bower-asset/vue-router": "~0.7.0",
+        "xj/yii2-vuejs": "~1.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "xj\\vuejs\\": ""
+        }
+    }
+}
